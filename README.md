@@ -7,7 +7,7 @@
 <h3 align="center">Social Media</h3>
 
 <p align="center">
-    <a href="https://twitter.com/_Soumika_11"><img height="34" src="images/social/twitter.svg" alt="Twitter"></a>&nbsp;&nbsp;
+    <a href="https://x.com/_Soumika11"><img height="34" src="images/social/twitter.svg" alt="Twitter"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/soumikadas/"><img height="34" src="images/social/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
 </p>
 
